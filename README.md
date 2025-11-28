@@ -51,3 +51,5 @@ dimensions and quotient manifolds evolve during training? How do these
 degeneracies relate to phenomena such as mode connectivity, representation
 collapse, or the existence of sparse subnetworks? The rest of the note develops
 the formalism needed to address such questions in a unified way.
+
+This is a research note in progress. Please feel free to read and share the link. If you’d like to reuse material, please contact me.
