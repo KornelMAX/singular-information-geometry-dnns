@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the note “Unified Singular Information Geometry of Deep Neural Networks” and supporting code/experiments. Very roughly: I treat parameters and hidden activations as redundant
+This repository contains the note “Unified Singular Information Geometry of Deep Neural Networks” and potential supporting code/experiments. Very roughly: I treat parameters and hidden activations as redundant
 coordinates on the same underlying probabilistic model, and use
 Fisher–Rao geometry to understand which directions actually matter.
 
