@@ -1,8 +1,7 @@
 # Overview
 
 This repository contains the note “Unified Singular Information Geometry of Deep Neural Networks” and potential supporting code/experiments. Very roughly: I treat parameters and hidden activations as redundant
-coordinates on the same underlying probabilistic model, and use
-Fisher–Rao geometry to understand which directions actually matter.
+coordinates on the same underlying probabilistic model, and use geometry to understand which directions actually matter.
 
 This note is about degeneracy in deep neural networks, phrased in geometric
 language. Modern networks are heavily overparameterised: many different weight
