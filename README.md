@@ -1,5 +1,9 @@
 # Overview
 
+Status: Research note (draft; not peer-reviewed)
+
+Latest PDF: Manuscript_of_Singular_Information_Geometry_of_DNNs__01_03_2026
+
 This repository contains the note “Unified Singular Information Geometry of Deep Neural Networks” and potential supporting code/experiments. Very roughly: I treat parameters and hidden activations as redundant
 coordinates on the same underlying probabilistic model, and use geometry to understand which directions actually matter.
 
